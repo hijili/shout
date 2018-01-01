@@ -1,4 +1,4 @@
-#shout
+# shout
 
 ネタのためのクソコマンドです...
 
@@ -13,4 +13,15 @@ $ make
 ```sh
 $ ./shout yeah
 yeaaaah!!!!!
+```
+
+### Config
+
+```sh
+$ cat <<EOF > hoge.conf
+EXCLAMATION=10
+CYCLES=10
+EOF
+$ ./shout -c hoge.conf yeah
+yeaaaaaaaaaah!!!!!!!!!!
 ```
