@@ -3,7 +3,7 @@
 ネタのためのクソコマンドです...
 
 ネタ元: こわくない、rpmbuild
-https://qiita.com/hijili/items/ab2e162acbe05f86b7b0v
+https://qiita.com/hijili/items/ab2e162acbe05f86b7b0
 
 ## Build
 
